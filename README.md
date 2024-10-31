@@ -173,4 +173,4 @@ Please refer to the specific original `LICENSE` file for more information.
 
 The original work can be found at [SegNet GitHub Repository](https://github.com/alexgkendall/SegNet-Tutorial), and modifications have been made to adapt the model to TensorFlow/Keras. All rights to the original work are reserved to the respective authors.
 
-This guide should help set up and train the SegNet model for segmentation tasks. Further adjustments to the code (e.g., chaneg of layers, adding data augmentation, tuning hyperparameters) can be made to improve model performance for specific datasets or applications.
+This guide should help set up and train the SegNet model for segmentation tasks. Further adjustments to the code (e.g., change of layers, adding data augmentation, tuning hyperparameters) can be made to improve model performance for specific datasets or applications.
