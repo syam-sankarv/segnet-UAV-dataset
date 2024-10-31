@@ -163,6 +163,7 @@ sns.heatmap(cm, annot=True, fmt="d", cmap="Blues", cbar=False)
 
 - SegNet Paper: [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561)
 - Original SegNet Repository: [Alex Kendall's SegNet on GitHub](https://github.com/alexgkendall/SegNet-Tutorial)
+- Other referenced repositories: (https://github.com/ykamikawa/tf-keras-SegNet) (https://github.com/aizawan/segnet)
 
 ---
 
