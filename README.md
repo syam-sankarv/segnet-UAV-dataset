@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates a deep learning pipeline for semantic segmentation, focusing on the segmentation of images from a **UAV dataset of segetal flora**. The pipeline trains a custom segmentation model (based on **SegNet architecture**) to identify segetal flora in aerial imagery. While this code is tailored for a specific UAV dataset, it can be adapted for other datasets or proprietary image data with similar dimensions and characteristics.
+This project demonstrates a deep learning pipeline for semantic segmentation, focusing on the segmentation of images from a **UAV dataset of segetal flora**. The pipeline trains a custom segmentation model (based on **SegNet architecture**) to identify segetal flora in aerial imagery. While this code is tailored for a specific UAV dataset, it can be adapted for other datasets or proprietary image data with similar dimensions and characteristics. There are two scripts with and without data augmentation. Only specific techniques have been used for augmentation and can be changed according to needs.
 
 **Note**: The UAV dataset used in this project is restricted for public use, and users must ensure compliance with applicable data access and usage policies if they utilize a different dataset.
 
